@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maycol Perez\\Documents\\VISUAL ESTUDIO ESTRUCTURA DATOS\\TAREAS ESTRUCTURAS\\semana02.csproj",
+      "projectUniqueName": "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana02\\Estructura-de-Datos\\semana02.csproj",
       "projectName": "semana02",
-      "projectPath": "C:\\Users\\Maycol Perez\\Documents\\VISUAL ESTUDIO ESTRUCTURA DATOS\\TAREAS ESTRUCTURAS\\semana02.csproj",
+      "projectPath": "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana02\\Estructura-de-Datos\\semana02.csproj",
       "packagesPath": "C:\\Users\\Maycol Perez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maycol Perez\\Documents\\VISUAL ESTUDIO ESTRUCTURA DATOS\\TAREAS ESTRUCTURAS\\obj\\",
+      "outputPath": "C:\\Users\\Maycol Perez\\Documents\\Visual Studio\\Estructura de Datos\\Tareas\\semana02\\Estructura-de-Datos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maycol Perez\\AppData\\Roaming\\NuGet\\NuGet.Config"
